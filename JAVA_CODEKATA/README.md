@@ -35,5 +35,5 @@ To run the solutions locally:
 2. Navigate to the specific problem's folder.
 3. Compile and execute the code using the command line
 
-##🌟 About Me
+## 🌟 About Me
 I am Abhay Aditya, a passionate engineering student working towards becoming a full-stack developer. Solving these challenges is a step toward mastering Java and honing my coding skills.
